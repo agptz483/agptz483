@@ -2,7 +2,7 @@
 
 ### A student majoring in Automation at Jinan University
 
-- 🔭 I'm currently working on **machine learning-related research of chemical materials**
+- 🔭 I'm currently working on **machine learning-related research of MOFs/COFs**
 
 - 🌱 I'm currently learning **OpenCV**
 
