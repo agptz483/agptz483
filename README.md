@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Tianzi Peng</h1>
+<h3 align="center">A student majoring in Automation at Jinan University</h3>
+
 # 💫 About Me:
 - 🔭 I’m currently working on **machine learning-related research of MOFs/COFs**<br><br>
 - 🌱 I’m currently learning **Automation、OpenCV**<br><br>
