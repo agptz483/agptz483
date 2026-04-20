@@ -9,7 +9,7 @@
 - 📫 How to reach me **answerstatesall@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+<p align="left" style="display: flex; flex-wrap: nowrap; gap: 8px; align-items: center; overflow-x: auto; padding-bottom: 8px;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
   </a>
