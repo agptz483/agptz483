@@ -2,7 +2,7 @@
 <h3 align="center">A student majoring in Automation at Jinan University</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **machine learning-related research of MOFs/COFs**<br><br>
+- 🔭 I’m currently working on **Machine Learning-related research of MOFs/COFs**<br><br>
 - 🌱 I’m currently learning **Automation Control、OpenCV**<br><br>
 - 📫 How to reach me **answerstatesall@outlook.com**
 
