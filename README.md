@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on **Machine Learning-related research of MOFs/COFs**<br><br>
-- 🌱 I’m currently learning **Automation Control、OpenCV**<br><br>
+- 🌱 I’m currently learning **Automation Control、OpenCV、STM32**<br><br>
 - 📫 How to reach me **answerstatesall@outlook.com**
 
 # 💻 Tech Stack:
