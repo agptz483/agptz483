@@ -2,7 +2,7 @@
 <h3 align="center">A student majoring in Automation at Jinan University</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Machine Learning-related research of MOFs/COFs**<br><br>
+- 🔭 I’m currently working on **Machine Learning-related research of MOFs/COFs、AI4S**<br><br>
 - 🌱 I’m currently learning **Automation Control、OpenCV、STM32、Robotics**<br><br>
 - 📫 How to reach me **tianzipeng0@163.com**
 
